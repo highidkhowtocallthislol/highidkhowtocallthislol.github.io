@@ -15,6 +15,3 @@ a:hover{
     color: #c591f7;
     background-color: #3b3434;
 }
-a::before{
-    content:attr(tooltip);
-}
