@@ -34,7 +34,7 @@ a:hover{
   }
   
   .primary-header.sticking {
-    --_bg: rgba(255, 255, 255, 0.082);
+    --_bg: #3333331b;
     --_logo-color: #fff;
     --_nav-link-color: #f00;
   }
