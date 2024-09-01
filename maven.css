@@ -16,7 +16,7 @@ a:hover{
     background-color: #3b3434;
 }
 .primary-header {
-    --_bg: rgba(255, 255, 255, 0.082);
+    --_bg: #333;
     --_logo-color: hsl(0, 0%, 5%);
     --_nav-link-color: hsl(37, 82%, 20%);
   
@@ -34,7 +34,7 @@ a:hover{
   }
   
   .primary-header.sticking {
-    --_bg: #333;
+    --_bg: rgba(255, 255, 255, 0.082);
     --_logo-color: #fff;
     --_nav-link-color: #f00;
   }
