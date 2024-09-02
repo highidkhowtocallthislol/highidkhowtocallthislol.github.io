@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>1.2.3-b6-1.20.2</modelVersion>
+ 
+  <parent>
+    <groupId>net.highskyguy.highmod</groupId>
+    <artifactId>app</artifactId>
+    <version>1.2.3-b6-1.20.2-dev</version>
+  </parent>
+ 
+  <groupId>net.highskyguy.highmod</groupId>
+  <artifactId>1.2.3-b6-1.20.2</artifactId>
+  <version>1.2.3-b6-1.20.2-dev</version>
+</project>
