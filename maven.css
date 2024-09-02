@@ -132,3 +132,6 @@ main{
 .hidden{
   display: none;
 }
+.hide-box{
+  padding: 10px;
+}
