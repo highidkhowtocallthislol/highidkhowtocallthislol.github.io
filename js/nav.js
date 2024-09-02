@@ -6,7 +6,7 @@ primaryHeader.before(scrollWatcher);
 
 const navObserver = new IntersectionObserver(
   (entries) => {
-    primaryHeader.classList.remove("sticking", !entries[0].isIntersecting);
+    primaryHeader.classList.toggle("sticking", !entries[0].isIntersecting);
   },
   { rootMargin: "50px 0px 0px 0px" }
 );
