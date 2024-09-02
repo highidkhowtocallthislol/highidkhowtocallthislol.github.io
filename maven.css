@@ -125,4 +125,10 @@ a:hover{
     white-space: nowrap;
     width: 1px;
   }
-  
+/* Main */
+main{
+  text-align: center;
+}
+.hidden{
+  display: none;
+}
