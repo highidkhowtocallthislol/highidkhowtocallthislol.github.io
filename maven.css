@@ -44,9 +44,7 @@ a:hover{
     justify-content: space-between;
   }
   
-  .primary-header a {
-    color: var(--_nav-link-color);
-  }
+  
   
   .primary-header a:hover,
   .primary-header a:focus {
