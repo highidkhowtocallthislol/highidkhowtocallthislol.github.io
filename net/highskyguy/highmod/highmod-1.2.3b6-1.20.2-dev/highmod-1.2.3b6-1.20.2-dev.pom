@@ -8,6 +8,6 @@
   </parent>
  
   <groupId>net.highskyguy.highmod</groupId>
-  <artifactId>1.2.3-b6-1.20.2</artifactId>
+  <artifactId>highmod-1.2.3-b6-dev</artifactId>
   <version>1.2.3-b6-1.20.2-dev</version>
 </project>
