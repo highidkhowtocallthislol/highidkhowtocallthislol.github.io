@@ -8,12 +8,12 @@ body{
 a{
     color: #d0adf0;
     padding: 10px;
-    background-color: #3e3333;
+    background-color: #574a4a;
     text-decoration: none;
 }
 a:hover{
     color: #c591f7;
-    background-color: #3b3434;
+    background-color: #504747;
 }
 .primary-header {
     --_bg: #333;
